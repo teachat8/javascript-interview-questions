@@ -8,7 +8,7 @@
 | --- | --------- | 
 |1 | [JavaScript中创建对象有哪些方法？](#JavaScript中创建对象有哪些方法) |
 |2 | [什么是原型链？](#什么是原型链) |
-|3 | [call,apply,bind的区别？](#call,apply,bind的区别) |
+|3 | [call apply bind的区别？](#call apply bind的区别) |
 |4 | [什么是JSON及其常见操作？](#什么是JSON及其常见操作) |
 |5 | [数组slice方法的作用是什么？](#数组slice方法的作用是什么) |
 |6 | [数组splice方法的作用是什么？](#数组splice方法的作用是什么) |
@@ -133,7 +133,7 @@
 
 **[⬆ 返回顶部](#目录)**
 
-3. ### call,apply,bind的区别？
+3. ### call apply bind的区别？
 
 **Call:** call()方法调用指定this和依次传入参数的函数
 
